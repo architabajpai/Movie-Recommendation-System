@@ -147,3 +147,7 @@ The synthetic dataset contains **5,200 movies** with:
 - `vote_average`, `vote_count`, `popularity`, `release_year`, `runtime`, `language`
 
 Replace `data/movies.csv` with a real dataset (e.g. TMDB 5000 from Kaggle) — the pipeline is drop-in compatible as long as the column names match.
+
+
+*##Deployed app:*
+https://movie-recommendation-system-3z5wzyappugxvaappvvdmvdt.streamlit.app/
