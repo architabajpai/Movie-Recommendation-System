@@ -149,5 +149,5 @@ The synthetic dataset contains **5,200 movies** with:
 Replace `data/movies.csv` with a real dataset (e.g. TMDB 5000 from Kaggle) — the pipeline is drop-in compatible as long as the column names match.
 
 
-*##Deployed app:*
+*Deployed app:*
 https://movie-recommendation-system-3z5wzyappugxvaappvvdmvdt.streamlit.app/
